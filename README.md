@@ -4,7 +4,7 @@ Final assignment for Coursera course
 Of the 561 features measured, this assignment requires only the mean and standard deviation measures:
 
 1 tBodyAcc-mean()-X
-2 tBodyAcc-mean()-Y
+2 tBodyAcc-mean()-Y/n
 3 tBodyAcc-mean()-Z
 4 tBodyAcc-std()-X
 5 tBodyAcc-std()-Y
