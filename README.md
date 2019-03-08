@@ -1,10 +1,19 @@
 # Getting-and-cleaning-data
 Final assignment for Coursera course
 
+--------------------------------------------------
+"1. Merge the training and the test sets to create one data set"
+
+This will merge the X_test.txt and X_train.txt files. Given that the data was a single set which was split 70%/30%,
+it should be merged in the same way - i.e. one after the other.
+
+--------------------------------------------------
+"2. Extracts only the measurements on the mean and standard deviation for each measurement"
+
 Of the 561 features measured, this assignment requires only the mean and standard deviation measures:
 
 1 tBodyAcc-mean()-X
-2 tBodyAcc-mean()-Y/n
+2 tBodyAcc-mean()-Y
 3 tBodyAcc-mean()-Z
 4 tBodyAcc-std()-X
 5 tBodyAcc-std()-Y
@@ -69,3 +78,17 @@ Of the 561 features measured, this assignment requires only the mean and standar
 530 fBodyBodyGyroMag-std()
 542 fBodyBodyGyroJerkMag-mean()
 543 fBodyBodyGyroJerkMag-std()
+
+--------------------------------------------------
+
+"3. Uses descriptive activity names to name the activities in the data set"
+
+The descriptive names for the activities are the following;
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
+
+The descriptions files are the y_train.txt and y_test.txt.
