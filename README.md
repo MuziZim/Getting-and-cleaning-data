@@ -92,3 +92,15 @@ The descriptive names for the activities are the following;
 6 LAYING  
 
 The descriptions files are the y_train.txt and y_test.txt.
+
+--------------------------------------------------
+
+"4. Appropriately labels the data set with descriptive variable names."
+
+Rename the file with variable names V1:V561 with the descriptions from the features file: features.txt
+
+--------------------------------------------------
+
+"5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject."
+
+
