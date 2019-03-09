@@ -1,6 +1,9 @@
 # Getting-and-cleaning-data
 Final assignment for Coursera course
 
+The steps discussed below are the ones followed to create the tidy dataset. The name of the tidy dataset is third_step - use this should you wish to save it in a specific, separate file.
+
+Steps outlined below:
 --------------------------------------------------
 "1. Merge the training and the test sets to create one data set"
 
@@ -81,7 +84,7 @@ Of the 561 features measured, this assignment requires only the mean and standar
 
 --------------------------------------------------
 
-"3. Uses descriptive activity names to name the activities in the data set"
+"3. Use descriptive activity names to name the activities in the data set"
 
 The descriptive names for the activities are the following; 
 1 WALKING 
