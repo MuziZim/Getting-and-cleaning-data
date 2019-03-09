@@ -95,12 +95,17 @@ The descriptions files are the y_train.txt and y_test.txt.
 
 --------------------------------------------------
 
-"4. Appropriately labels the data set with descriptive variable names."
+"4. Appropriately label the data set with descriptive variable names."
 
 Rename the file with variable names V1:V561 with the descriptions from the features file: features.txt
 
 --------------------------------------------------
 
-"5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject."
+"5. From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject."
 
+Incorporate subject identification data: subject_train.txt and subject_test.txt
 
+Roll-up (like a pivot-table) to show the following;
+Columns: variables
+Rows (l1): subject
+Rows (l2): activity type
