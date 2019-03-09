@@ -1,7 +1,7 @@
 # Getting-and-cleaning-data
 Final assignment for Coursera course
 
-The steps discussed below are the ones followed to create the tidy dataset. The name of the tidy dataset is third_step - use this should you wish to save it in a specific, separate file.
+The steps discussed below are the ones followed to create the tidy dataset. The name of the tidy dataset is third_step - use this should you wish to save it in a specific, separate file. The name of the separate file to be created with all the means is the new_set file.
 
 Steps outlined below:
 --------------------------------------------------
